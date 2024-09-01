@@ -44,5 +44,5 @@ if(entries[a] && entries[a] === entries[b] && entries[b] === entries[c]) {
     if(entries[a]=="O"){ window.location.href = "./winner2.html"; }
 }}}
 const restart=()=>{
-    window.location.href = "./tic.html";
+    window.location.href = "./Index.html";
 }
