@@ -55,6 +55,8 @@ td{
     width: 60%;
     height: 30%;
    }
+    td{
+        font-size:40px;}
 }
 @media (min-width: 481px) and (max-width: 767px) {
     h1{
@@ -64,6 +66,8 @@ td{
         width: 60%;
         height: 40%;
        }
+       td{
+        font-size:50px;}
 }
 @media (min-width: 768px) and (max-width: 1024px) {
     h1{
